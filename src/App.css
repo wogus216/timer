@@ -36,3 +36,37 @@
     transform: rotate(360deg);
   }
 }
+
+.timerContainer {
+  position: relative;
+  width: 400px;
+  margin: 0 auto;
+}
+
+.timer {
+  width: 400px;
+  height: 400px;
+  border-radius: 50%;
+  border: 5px solid #fafafa;
+  background-color: gray;
+}
+
+.graph {
+  position: absolute;
+  width: 300px;
+  height: 300px;
+  border-radius: 50%;
+  background-color: #bbb1d6;
+  top: 55px;
+  right: 43px;
+}
+
+.centerCircle {
+  position: absolute;
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+  background-color: gray;
+  top: 155px;
+  right: 142px;
+}
