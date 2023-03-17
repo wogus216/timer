@@ -56,7 +56,8 @@
   width: 300px;
   height: 300px;
   border-radius: 50%;
-  background-color: #bbb1d6;
+  /* background-color: #bbb1d6; */
+  /* background: conic-gradient(#bbb1d6 0% 80%, #f2f2f2 72% 100%); */
   top: 55px;
   right: 43px;
 }
